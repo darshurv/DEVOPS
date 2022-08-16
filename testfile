@@ -1,4 +1,5 @@
 #!/bin/bash
 
+echo "from branch mod02"
 echo "testing the merge"
 echo "===========EOS============"
